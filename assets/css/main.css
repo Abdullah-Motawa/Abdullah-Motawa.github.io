@@ -1772,7 +1772,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #25383B;
+		color: rgb(9, 207, 238);
 	}
 
 	blockquote {
@@ -3348,7 +3348,7 @@
 			}
 
 			.wrapper.style3 h1, .wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 h4, .wrapper.style3 h5, .wrapper.style3 h6 {
-				color: #fff;
+				color: #1AD151;
 			}
 
 			.wrapper.style3 blockquote {
@@ -3658,7 +3658,7 @@
 			-webkit-transition: color 0.2s ease-in-out;
 			-ms-transition: color 0.2s ease-in-out;
 			transition: color 0.2s ease-in-out;
-			color: #fff;
+			color: #75DFEF;
 			display: inline-block;
 			margin-right: 1.25em;
 			text-decoration: none;
@@ -3897,7 +3897,7 @@
 		}
 
 		#banner h1, #banner h2, #banner h3, #banner h4, #banner h5, #banner h6 {
-			color: #fff;
+			color: #75DFEF;;
 		}
 
 		#banner blockquote {
@@ -4006,7 +4006,7 @@
 		}
 
 		#banner p {
-			color: #fff;
+			color: #75DFEF;;
 			font-size: 1.5em;
 			margin-bottom: 1.75em;
 			text-transform: uppercase;
